@@ -1,5 +1,5 @@
 // Made by Alexey Popov, GNU GPLv3
-// UNFINISHED YET
+// NOT FINISHED YET
 
 #include <stdio.h>
 #include <stdlib.h>
